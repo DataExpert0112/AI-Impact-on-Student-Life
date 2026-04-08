@@ -46,7 +46,7 @@ Tool preferences among students:
 - Usage patterns vary significantly across School/College/University
 - University students show highest usage intensity
 - School students demonstrate most focused (learning-centric) usage
-
+![image alt](https://github.com/DataExpert0112/AI-Impact-on-Student-Life/blob/ad2834b8140f2dafe5a1dc203497024700925519/Usage%20of%20AI%20by%20Eduactional%20levels.png)
 ---
 
 ## 🤖 Machine Learning Model
