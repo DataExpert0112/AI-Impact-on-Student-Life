@@ -17,7 +17,7 @@
 | 5-6 hours | Slight Decline | Excessive usage correlates with negative impact |
 
 **Visual Insight:** Students reporting "Improved" grades cluster around 2-3 hours daily usage, while "Slight Decline" appears more frequently at 5-6 hours.
-
+![image alt](https://github.com/DataExpert0112/AI-Impact-on-Student-Life/blob/25083d8824662303a42be97f0bd4ec7473cb0af9/Impact%20of%20AI%20on%20Grades.png)
 ### 3. Purpose of AI Usage
 Top student applications (by frequency):
 1. **Learning** (highest count)
