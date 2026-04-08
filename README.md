@@ -37,11 +37,11 @@ Top student applications (by frequency):
 ### 5. AI Tool Adoption
 Tool preferences among students:
 - ChatGPT (dominant market share)
-- Gemini
+- Gemini (The most commonly used,preferred for coding)
 - Copilot
 - Grammarly
 - Notion AI
-
+![image alt](https://github.com/DataExpert0112/AI-Impact-on-Student-Life/blob/2292a4d3a8e897a0517fcdb2a3a20b1e5891fcb2/AI%20Tool%20Used.png)
 ### 6. Education Level Analysis
 - Usage patterns vary significantly across School/College/University
 - University students show highest usage intensity
