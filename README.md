@@ -20,12 +20,13 @@
 ![image alt](https://github.com/DataExpert0112/AI-Impact-on-Student-Life/blob/25083d8824662303a42be97f0bd4ec7473cb0af9/Impact%20of%20AI%20on%20Grades.png)
 ### 3. Purpose of AI Usage
 Top student applications (by frequency):
-1. **Learning** (highest count)
-2. **Homework assistance**
-3. **Writing** 
-4. **Research**
-5. **Coding** (lowest among sampled population)
-
+1. **Coding** (highest count)
+2. **Learning** 
+3. **Homework assistance**(lowest among sampled population)
+4. **Writing** 
+5. **Research**
+   
+![image alt](https://github.com/DataExpert0112/AI-Impact-on-Student-Life/blob/9755eed68836755d9feb927ce26fdd0ac881cf81/Purpose%20of%20AI%20Usage.png)
 ### 4. Satisfaction Patterns
 - **Medium satisfaction** dominates across all usage levels
 - High satisfaction correlates with:
