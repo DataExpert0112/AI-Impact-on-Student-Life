@@ -33,7 +33,7 @@ Top student applications (by frequency):
   - Moderate usage (2-3 hours/day)
   - Learning-focused purposes
 - Low satisfaction appears at both extremes (very low/high usage)
-
+![image alt](https://github.com/DataExpert0112/AI-Impact-on-Student-Life/blob/a66598e38daa0dd506052afe6afa677f4f0eade5/Usage%20Vs%20Satisfaction.png)
 ### 5. AI Tool Adoption
 Tool preferences among students:
 - ChatGPT (dominant market share)
