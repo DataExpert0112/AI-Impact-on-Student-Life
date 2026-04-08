@@ -7,7 +7,7 @@
 - Students report **1-6 hours** of daily AI usage
 - Most common usage: **2-4 hours/day** (balanced distribution)
 - Suggests moderate adoption across the student population
-
+![image alt](https://github.com/DataExpert0112/AI-Impact-on-Student-Life/blob/cbe57d20e06a9d6b542956f62b1b48474a30729a/Daily%20AI%20usage%20distribution.png)
 ### 2. Impact on Grades by Usage Level
 
 | Usage Level | Primary Outcome | Key Insight |
